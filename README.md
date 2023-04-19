@@ -2,6 +2,8 @@
 
 ## C#
 
+- 深入理解C# (3rd Edition)
+
 #### Concurrency
 
 - Concurrency in .NET (Modern patterns of concurrent and parallel programming)
@@ -17,3 +19,7 @@
 #### ML.NET
 
 - Programming ML.NET
+
+#### WPF
+
+- Mastering Windows Presentation Foundation
