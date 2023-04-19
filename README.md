@@ -23,3 +23,13 @@
 #### WPF
 
 - Mastering Windows Presentation Foundation
+
+## Rust
+
+- Rust in Action
+
+- Rust死灵书 - Rust高级与非安全程序设计
+
+- 精通Rust (第2版)
+
+- 深入浅出 Rust
