@@ -2,6 +2,8 @@
 
 ## C#
 
+- CLR via C# (中文)
+
 - 深入理解C# (3rd Edition)
 
 #### Concurrency
