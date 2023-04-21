@@ -26,6 +26,12 @@
 
 - Mastering Windows Presentation Foundation
 
+## C++
+
+- C++ Primer Plus (第6版)
+
+- Qt 5.9 C++开发指南
+
 ## Rust
 
 - Rust in Action

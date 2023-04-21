@@ -1,1 +1,3 @@
 C\#/CLR[[:space:]]via[[:space:]]C\#[[:space:]](中文).pdf filter=lfs diff=lfs merge=lfs -text
+C++/C++[[:space:]]Primer[[:space:]]Plus[[:space:]](第6版).pdf filter=lfs diff=lfs merge=lfs -text
+C++/Qt[[:space:]]5.9[[:space:]]C++开发指南.pdf filter=lfs diff=lfs merge=lfs -text
