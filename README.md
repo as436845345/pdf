@@ -4,6 +4,8 @@
 
 - CLR via C# (中文)
 
+- Pro .NET Benchmarking
+
 - 深入理解C# (3rd Edition)
 
 #### Concurrency
@@ -24,9 +26,13 @@
 
 #### WPF
 
+- HLSL And Pixel Shaders for XAML Developers
+
 - Mastering Windows Presentation Foundation
 
 ## C++
+
+- Application Development with Qt Creator 3rd Edition
 
 - C++ Primer Plus (第6版)
 
