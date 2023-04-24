@@ -40,9 +40,17 @@
 
 ## Rust
 
+- Black Hat Rust
+
+- Hands-On Concurrency with Rust
+
 - Rust in Action
 
+- Rust 编程之道
+
 - Rust死灵书 - Rust高级与非安全程序设计
+
+- The Rust Programming Language
 
 - 精通Rust (第2版)
 
