@@ -42,13 +42,19 @@
 
 - Black Hat Rust
 
+- Fullstack Rust
+
 - Hands-On Concurrency with Rust
+
+- Mastering Rust A Beginners Guide
 
 - Mastering Rust
 
 - Practical Machine Learning With Rust
 
 - Practical Rust Projects
+
+- Rust Atomics and Locks
 
 - Rust for the IoT
 
