@@ -44,6 +44,16 @@
 
 - Hands-On Concurrency with Rust
 
+- Mastering Rust
+
+- Practical Machine Learning With Rust
+
+- Practical Rust Projects
+
+- Rust for the IoT
+
+- Rust High Performance (Learn to skyrocket the performance of your Rust applications)
+
 - Rust in Action
 
 - Rust 编程之道
@@ -51,6 +61,8 @@
 - Rust死灵书 - Rust高级与非安全程序设计
 
 - The Rust Programming Language
+
+- Zero to Production in Rust
 
 - 精通Rust (第2版)
 
