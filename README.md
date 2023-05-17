@@ -38,6 +38,18 @@
 
 - Qt 5.9 C++开发指南
 
+## JavaScript
+
+- JavaScript高级程序设计（第4版）
+
+- JavaScript权威指南（第七版）
+
+- Three.js开发指南：基于WebGL和HTML5在网页上渲染3D图形和动画(原书第3版)
+
+- vuejs+nodejs
+
+- 深入浅出Node.js
+
 ## Rust
 
 - Black Hat Rust
